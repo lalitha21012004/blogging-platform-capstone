@@ -1,5 +1,5 @@
 // Change this to your deployed Render URL later!
-const API_URL = "http://localhost:3000/api";
+const API_URL = "https://blogging-platform-capstone.onrender.com/api";
 
 // --- 1. UTILITY FUNCTIONS ---
 
